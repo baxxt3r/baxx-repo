@@ -1,0 +1,33 @@
+{
+    "name": "trow",
+    "title": "jQuery Simple Total Row",
+    "description": "This simple jQuery plugin appends a row to a given table in which it calculates totals for given columns.",
+    "keywords": [
+        "table",
+        "totals",
+  	"calculator"
+    ],
+    "version": "1.1",
+    "author": {
+        "name": "Catalin Anghel"
+    },
+    "maintainers": [
+        {
+            "name": "Catalin Anghel",
+            "email": "catalin.anghel@gmail.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/baxxt3r/baxx-repo/blob/master/LICENSE.md"
+        }
+    ],
+    "bugs": "https://code.google.com/p/simple-jquery-totalrow/issues/list",
+    "homepage": "https://code.google.com/p/simple-jquery-totalrow/",
+    "docs": "https://github.com/baxxt3r/baxx-repo/wiki/How-to",
+    "download": "https://code.google.com/p/simple-jquery-totalrow/downloads/list",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
